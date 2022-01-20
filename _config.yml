@@ -1,1 +1,11 @@
+title: Srinivasulareddy Pallamareddy # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ OSS and LTE_5GC Core Engineer
+  <br><br>
+  <a href="mailto:srini.pallamareddy@gmail.com">srini.pallamareddy@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/srinivasulareddy-pallamreddy-3928a156/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/srinipallama/">Gihub</a> 
 theme: jekyll-theme-minimal
