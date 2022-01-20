@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/srinipallama/srinipallama.gitbub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am having 10 years of overall experience with Wireless OSS, RAN, gNodeb, eNodeb, Nodeb, GBTS, LTE Core, 5GCore, Kubernetes (CaaS) & Open stack(IaaS) Cloud, 5G-EPC, EPC, 3G, 2G, Majorly Packet Core with earlier experience of Circuit Core & UDM, in the field of Design & Integration, Solutioning, Optimization and Support.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srinipallama/srinipallama.gitbub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+• Technical expertise for deploying 5G Core, Kubernetes, Openstack,5G-EPC ,4G, EPC-LTE and Packet Core solution.
+• 5G Core CNF deployment & Integration on REDHAT & Ericsson Cloud based on Kubernetes and docker.
+• 5G Dual Core PCC (AMF&SMF) PCG(UPF) CCRC (NRF&NSSF) deployment & Integration over ECCD(CaaS) on top of RHSOP.
+• Deployed Kubernetes open-source Docker container-orchestration system over Open stack.
+• Tested 5GC first data call with real SIM & gNodeB and vDallas (Virtual gnodeB) as well.
+• Openstack (CEE) deployment for Kubernetes and Docker and for Packet Core VNF.
+• Expertise Deployment and Integration for 5G EPC and UDM VNF over Ericsson Cloud (CEE6.6.2).
+• Deployed E2E Enterprise Core Solution VNF on single DELL/HDS/HP Servers and achieve 1GB E2E data call.
+• Proficiency in devices involved in Ericsson AMF, SMF, UPF,NRF,PCF vMME,vEPG,vSAPC,vHSS,vCUDB,vEDA,ENM.
+• Expertise for Packet Core Nodes network optimization and KPIs tuning.
+• Experience in Technologies Mobile Circuit Core (MSC-BC, MGW,HLR) as well.
+• Preparing HLD/LLD for the packet core 5GC solution.
+• Worked as a 5G-EPC Support Engineer in Ericsson Kuwait to Provide network support for Packet Core (SGSN, GGSN, PCEF, PCRF) to maintain maximum network stability and minimum outage.
+• OSS Operation maintenance, HW & SW Upgrade and solution desingh
+• Genex Discovery performance tool deployment and operation maintenance.
+•. Whole netwrok license audit and update for RAn and core nodes.
